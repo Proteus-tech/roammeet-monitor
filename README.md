@@ -1,6 +1,6 @@
 RoamMeet Monitoring Stack
+======
 
-=====
 ### GitHub OAuth2 Integration ###
 You will need to setup following env variables:
 - `GF_AUTH_GITHUB_CLIENT_ID`
